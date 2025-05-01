@@ -4,7 +4,7 @@ const pool = mysql.createPool({
   host: "crossover.proxy.rlwy.net",
   user: "root",
   password: "cWsBFNXtHGuuKFNLesVBGKVzhcoJVorP",
-  database: "railway",
+  database: "Sistema_Ventas",
   port: 55754,
   waitForConnections: true,
   connectionLimit: 10,
